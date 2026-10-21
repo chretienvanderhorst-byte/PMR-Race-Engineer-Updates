@@ -1,9 +1,9 @@
 {
   "appId": "nl.pmrraceengineer",
   "appName": "PMR Race Engineer",
-  "versionCode": 58,
-  "versionName": "0.1.58",
-  "releaseNotes": "Nieuwe build 0.1.58. Bekijk de app voor verbeteringen.",
-  "apkUrl": "https://github.com/chretienvanderhorst-byte/PMR-Race-Engineer-Updates/releases/latest/download/app-debug.apk",
+  "versionCode": 59,
+  "versionName": "0.1.59",
+  "releaseNotes": "Nieuwe build 0.1.59. Bekijk de app voor verbeteringen.",
+  "apkUrl": "https://github.com/chretienvanderhorst-byte/PMR-Race-Engineer-Updates/releases/latest/download/PMR-Race-Engineer.apk",
   "minimumVersionCode": 1
 }
